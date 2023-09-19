@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project.
+Convert website to mobile application using Flutter Webview package
 
 ## Getting Started
 
